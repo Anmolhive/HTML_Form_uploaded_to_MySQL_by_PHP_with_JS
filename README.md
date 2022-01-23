@@ -1,4 +1,4 @@
-# HTML_Form_uploaded_to_MySQL_by_PHP_with_JS-
+# HTML_Form_uploaded_to_MySQL_by_PHP_with_JS
 HTML form data uploaded in MySQL  by PHP file with help of JavaScript
 
 Hi, This is Anmol Singh.
